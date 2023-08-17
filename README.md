@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @camile01
 - 👀 I’m interested in psicologia 
 - 🌱 I’m currently learning matérias da escola 
-- 💞️ I’m looking to collaborate no colégio 
+- 💞️ I’m looking to collaborate mais em casa
 - 📫 How to reach me 
 
 <!---
